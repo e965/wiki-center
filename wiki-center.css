@@ -1,0 +1,13 @@
+body.mediawiki {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#mw-head {
+    background-color: #fff;
+}
+
+.mw-body {
+    margin-top: 10px;
+    border-right-width: 1px;
+}
